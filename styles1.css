@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(52, 58, 64, 0.9);
+    color: white;
+}
+
+.property-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #343a40;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #ffffff;
+}
+
+.property-card {
+    background-color: #495057;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.property-card h2 {
+    margin-top: 0;
+    color: #ffffff;
+}
+
+.property-card p {
+    margin: 5px 0;
+    color: #ced4da;
+}
